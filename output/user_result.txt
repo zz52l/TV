@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-25 06:28:34,url
+2025-03-25 18:19:02,url
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8$订阅源|IPv6
 CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$订阅源|IPv6
@@ -480,7 +480,6 @@ NewTV惊悚悬疑,http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3
 NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源|IPv6
 NewTV惊悚悬疑,http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8$订阅源|IPv6
 NewTV惊悚悬疑,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000113$订阅源|IPv6
-NewTV惊悚悬疑,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源|IPv6
 NewTV动作电影,http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8$订阅源|IPv6
 黑莓电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225743/2.m3u8$订阅源|IPv6
 黑莓电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源|IPv6
